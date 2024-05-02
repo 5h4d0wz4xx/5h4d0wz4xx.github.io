@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repo.omega.wizard" name="REPO_NAME_HERE" version="1.0" provider-name="5h4d0wz4xx">
+<addon id="plugin.omega.wizard" name="repo.omega.wizard" version="1.0" provider-name="5h4d0wz4xx">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/5h4d0wz4xx/omega.wizard.repo/master/repo/zips/addons.xml</info>
