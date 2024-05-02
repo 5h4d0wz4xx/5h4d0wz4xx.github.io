@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.omega.wizard" name="repo.omega.wizard" version="1.0" provider-name="5h4d0wz4xx">
+<addon id="plugin.omega.wizard" name="5h4d0wz4xx.github.io" version="1.0" provider-name="5h4d0wz4xx">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/5h4d0wz4xx/omega.wizard.repo/master/repo/zips/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/5h4d0wz4xx/omega.wizard.repo/master/repo/zips/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/5h4d0wz4xx/omega.wizard.repo/master/repo/zips/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/master/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/master/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/master/repo/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>omega.wizard.repo</summary>
+        <summary>5h4d0wz4xx.github.io</summary>
         <description>Custom kodi build and wizard</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
