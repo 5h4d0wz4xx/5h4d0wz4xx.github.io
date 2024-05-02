@@ -17,7 +17,7 @@ ADDONTITLE = '[COLOR lightskyblue][B]Omega[/B][/COLOR]Wizard'
 BUILDERNAME = 'OmegaWizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/master/repo/builds/builds.txt?token=GHSAT0AAAAAACRSGVHKZ6SUZLXPUEKN2P34ZRP3SYA'
+BUILDFILE = 'https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/main/repo/builds/builds.txt?token=GHSAT0AAAAAACRSGVHKZ6SUZLXPUEKN2P34ZRP3SYA'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
