@@ -10,7 +10,7 @@ gui="https://www.dropbox.com/scl/fi/11poj7z8fout4ecvr76fe/omegabuild_guisettings
 kodi="21.0"
 theme="url.to.themes"
 icon="https://www.dropbox.com/scl/fi/3gcqdtpplvlms3xbcxyyf/icon.png?rlkey=83dexwdjz4igm6mycnl4pmttb&st=pzdq0rtm&dl=1"
-fanart="https://www.dropbox.com/scl/fi/3gcqdtpplvlms3xbcxyyf/icon.png?rlkey=83dexwdjz4igm6mycnl4pmttb&st=pzdq0rtm&dl=1"
+fanart="https://www.dropbox.com/scl/fi/3y3kl9do1n6lrrliue3bf/1080icon.png?rlkey=sf64j8xa23bw6w7yuyie07nmg&st=hparoo7h&dl=1"
 preview="not avilable"
 adult="yes"
 info="url.to.info"
