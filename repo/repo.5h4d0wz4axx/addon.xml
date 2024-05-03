@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="repo.5h4d0wz4xx.omegawizard" name="5h4d0wz4xx.github.io" version="1.0" provider-name="5h4d0wz4xx">
+<addon id="repo.5h4d0wz4xx.omegawizard" name="5h4d0wz4xx Repo" version="1.0" provider-name="5h4d0wz4xx">
     <extension point="xbmc.addon.repository" name="Example Repository">
         <dir>
             <info compressed="false">https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/master/repo/zips/addons.xml</info>
@@ -8,7 +8,7 @@
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>5h4d0wz4xx.github.io</summary>
+        <summary>5h4d0wz4xx Repo</summary>
         <description>Custom kodi build and wizard</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
