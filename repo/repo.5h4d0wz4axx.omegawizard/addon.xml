@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.omega.wizard" name="[COLOR lightskyblue]Omega wizard[/COLOR]" version="1.0" provider-name="5h4d0wz4xx">
+<addon id="repo.5h4d0wz4axx.omegawizard" name="[COLOR steelblue]Omega Wizard[/COLOR]" version="1.0" provider-name="5h4d0wz4axx">
     <requires>
         <import addon="xbmc.python" version="3.0.0" />
         <import addon="script.module.requests" />
@@ -15,14 +15,14 @@
     <extension point="xbmc.service" library="startup.py" start="startup" />
     
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">[COLOR lightskyblue]Custom builds + maintenance[/COLOR]</summary>
-        <description lang="en">[COLOR lightskyblue]Omega[/COLOR]Wizard offers many maintenance features and builds</description>
+        <summary lang="en">[COLOR steelblue]Omega[/COLOR]Wizard builds</summary>
+        <description lang="en">[COLOR steelblue]Omega Wizard [/COLOR]maintenance, data saving and build installs.</description>
         <platform>all</platform>
         <reuselanguageinvoker>false</reuselanguageinvoker>
         <source>https://www.github.com/a4k-openproject/plugin.program.openwizard/</source>
         <news>
 1.0
- - Custom build added for kodi omega: KodiOmega
+ - wizard and initial build
  - Initial Commit
         </news>
         <assets>

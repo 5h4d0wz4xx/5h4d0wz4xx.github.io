@@ -13,11 +13,11 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 #        User Edit Variables                            #
 #########################################################
-ADDONTITLE = '[COLOR lightskyblue][B]Omega[/B][/COLOR]Wizard'
+ADDONTITLE = '[COLOR steelblue][B]Open[/B][/COLOR]Wizard'
 BUILDERNAME = 'OmegaWizard'
 EXCLUDES = [ADDON_ID, 'repository.openwizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
-BUILDFILE = 'https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/main/repo/builds/builds.txt?token=GHSAT0AAAAAACRSGVHKZ6SUZLXPUEKN2P34ZRP3SYA'
+BUILDFILE = 'https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/master/repo/builds/builds.txt'
 # How often you would like it to check for build updates in days
 # 0 being every startup of kodi
 UPDATECHECK = 0
@@ -54,13 +54,13 @@ ICONLOGIN = os.path.join(ART, 'keeplogin.png')
 ICONCONTACT = os.path.join(ART, 'information.png')
 ICONSETTINGS = os.path.join(ART, 'settings.png')
 # Hide the section separators 'Yes' or 'No'
-HIDESPACERS = 'no'
+HIDESPACERS = 'Yes'
 # Character used in separator
 SPACER = '#'
 
 # You can edit these however you want, just make sure that you have a %s in each of the
 # THEME's so it grabs the text from the menu item
-COLOR1 = 'lightskyblue'
+COLOR1 = 'steelblue'
 COLOR2 = 'white'
 # Primary menu items   / {0} is the menu item and is required
 THEME1 = u'[COLOR {color1}][I]([COLOR {color1}][B]Omega[/B][/COLOR][COLOR {color2}]Wizard[COLOR {color1}])[/I][/COLOR] [COLOR {color2}]{{}}[/COLOR]'.format(color1=COLOR1, color2=COLOR2)
@@ -75,9 +75,9 @@ THEME5 = u'[COLOR {color1}]Current Theme:[/COLOR] [COLOR {color2}]{{}}[/COLOR]'.
 
 # Message for Contact Page
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
-HIDECONTACT = 'yes'
+HIDECONTACT = 'Yes'
 # You can add \n to do line breaks
-CONTACT = 'Thank you for choosing OpenWizard.\n\nContact us on Github at http://www.github.com/drinfernoo/plugin.program.openwizard/'
+CONTACT = 'Thank you for choosing OmegaWizard.\n\nContact us on Github at http://www.github.com/drinfernoo/plugin.program.openwizard/'
 # Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON = os.path.join(ART, 'qricon.png')
 CONTACTFANART = 'http://'
@@ -94,7 +94,7 @@ AUTOUPDATE = 'Yes'
 #        Auto Install Repo If Not Installed             #
 #########################################################
 # Enable Auto Install 'Yes' or 'No'
-AUTOINSTALL = 'no'
+AUTOINSTALL = 'No'
 # Addon ID for the repository
 REPOID = 'repository.openwizard'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
@@ -114,7 +114,7 @@ NOTIFICATION = 'http://'
 HEADERTYPE = 'Text'
 # Font size of header
 FONTHEADER = 'Font14'
-HEADERMESSAGE = '[COLOR lightskyblue][B]Open[/B][/COLOR]Wizard'
+HEADERMESSAGE = '[COLOR steelblue][B]Open[/B][/COLOR]Wizard'
 # url to image if using Image 424x180
 HEADERIMAGE = 'http://'
 # Font for Notification Window
