@@ -15,7 +15,7 @@ ART = os.path.join(PATH, 'resources', 'media')
 #########################################################
 ADDONTITLE = '[COLOR steelblue][B]Omega[/B][/COLOR]Wizard'
 BUILDERNAME = 'OmegaWizard'
-EXCLUDES = [ADDON_ID, 'repository.openwizard']
+EXCLUDES = [ADDON_ID, 'plugin.program.omegawizard']
 # Text File with build info in it. Please read https://github.com/a4k-openproject/plugin.program.openwizard/wiki/Installing-Builds
 BUILDFILE = 'https://raw.githubusercontent.com/5h4d0wz4xx/5h4d0wz4xx.github.io/master/repo/builds/builds.txt'
 # How often you would like it to check for build updates in days
